@@ -1,4 +1,4 @@
-# Kuşlu köyü Web Sitesi Projesi
+# Kuşlu Köyü Web Sitesi Projesi
 ![Resim Açıklaması](https://github.com/Mertalkann/Kuslu_site/blob/main/image.gif)
 Bu proje, HTML, CSS ve JavaScript kullanarak oluşturulan bir köy tanıtım sitesini içerir. Ana ekranda slayt gösterisi bulunmakta olup geçiş animasyonları ile ziyaretçilere köy hakkında bilgi vermektedir.
 
